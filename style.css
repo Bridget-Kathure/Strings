@@ -1,0 +1,190 @@
+.header{
+    background-color: black;
+    color: white;
+    gap: 10%;
+    display: flex;
+    text-align: center;
+}
+.adress{
+    display: grid;
+    gap: 10%;   
+}
+.envelope{
+    color: navy;
+    padding: 20px;
+}
+.navbar{
+    display: flex;
+    gap: 5%;
+}
+.home{
+    color: darkorange;
+}
+button{
+    background-color: darkorange;
+    color: white;
+    padding: 20px;
+    border: white;
+}
+body{
+    padding: 200px 200px;
+}
+.about us{
+    display: flex;
+    gap: 4%;
+}
+.since{
+    margin-left: 40%;
+    margin-top: -40%;
+}
+.learn{
+    color: darkorange;
+}
+.riaad{
+    display: flex;
+    gap: 4%;
+}
+.year{
+    display: grid;
+}
+.moving{
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: x-large;
+    font-style: normal;
+}
+.image{
+filter: contrast(0.5);
+}
+.container{
+    position: relative;
+}
+.email{
+    display: flex;
+    gap: 20%;
+}
+.mails{
+    gap: 5%;
+    display: flex;
+}
+.ipsum{
+    display: flex;
+    gap: 5%;
+}
+.services{
+    text-align: center;
+}
+.what{
+    display: flex;
+    gap: 5%;
+}
+.storage{
+    background-color: blue;
+    color: white;
+}
+.click{
+    display: flex;
+    gap: 20%;
+}
+.chair{
+    display: flex;
+    gap: 8%;
+}   
+
+.have{
+    color: white;
+}
+.textonimage{
+position: relative;
+}
+.text{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    font-size: larger;
+}
+.help{
+    text-align: center;
+}
+.form{
+    display: flex;
+}
+.request{
+    background-color: darkorange;
+    color: white;
+    width: 50%;
+}
+.local{
+    background-color: blue;
+    display: flex;
+    gap: 2%;
+}
+.label{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10%;
+    background-color: blue;
+    width: 50%;
+    
+}
+.customer{
+    display: flex;
+    gap: 10%;
+}
+.subscribe{
+    display: flex;
+    gap: 20%; 
+    margin-left: 30%;
+}
+.article{
+    display: flex;
+    gap: 4%;
+}
+.evolve{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    font-size: larger;
+    color: white;
+}
+.check{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border: black;
+}
+.over{
+    display: flex;
+    gap: 20%;
+}
+.usa{
+    background-color: darkorange;
+    color: white;
+    padding: 50px;
+}
+.legal{
+    display: flex;
+    gap: 10%;
+    background-color: black;
+    color: white;
+}
+.footer{
+    display: grid;
+}
+.socials{
+    gap: 5%;
+}
+#holder{
+    display: grid;
+}
+.input{
+    padding: 3px;
+}
+@media all and (max-width:600px){
+    
+}
